@@ -12,18 +12,13 @@ Cada carpeta corresponde a una clase o unidad temática trabajada durante el cur
 
 | Carpeta | Contenido |
 |--------|-----------|
-| `001 Caja oscura` | Historia y fundamentos ópticos de la imagen: cámara oscura y percepción visual. |
-| `002 Movimiento` | Análisis del movimiento en imágenes, técnicas de captura y fotosecuencia. |
-| `003 Recorte - Detección de bordes - Desenfoque Gaussiano - Escala de grises` | Operaciones básicas de procesamiento: recortes, filtros, detección de bordes y conversión a grises. |
-| `004 Downsampling. Posterización. Histograma` | Técnicas de reducción de resolución, cuantización de niveles y análisis de histograma. |
-| `005 Color` | Representación del color en imágenes: espacios RGB, HSV, mapas de color. |
-| `006 Muestreo y cuantización` | Reducción de tamaño y niveles de gris. Impacto visual de la compresión. |
-| `007 Segmentación simple` | Técnicas de segmentación básicas por color, umbral y forma. |
-| `008 Librería PIL - Interpolación` | Uso de la librería PIL para operaciones como escalado y transformación de imágenes. |
-| `009 Librerías Scikit-image y Scipy` | Ejemplos con funciones de alto nivel para preprocesamiento y análisis. |
-| `010 Muestreo y cuantización` | Revisión y profundización del tema con nuevos ejemplos prácticos. |
-| `011 Trabajo Integrador` | Proyecto final integrador del cuatrimestre. |
-| `012 Exposición oral` | Recursos y materiales para la exposición final. |
+| `001 Espacio de Color` | Representación del color en imágenes: espacios RGB, HSV, mapas de color. |
+| `002 Muestreo Espacial` | Reducción de tamaño e impacto visual al respecto. |
+| `003 Cuantización` | Reducción de niveles de gris e impacto visual al respecto. |
+| `004 Segmentación` | Técnicas de segmentación básicas por color, umbral y forma. |  
+| `005 Ejercicio Integrador` | Ejercicio integrador utilizando tecnicas adquiridas. |
+| `--- Librería PIL - Interpolación` | Uso de la librería PIL para operaciones como escalado y transformación de imágenes. |
+| `--- Librerías Scikit-image y Scipy` | Ejemplos con funciones de alto nivel para preprocesamiento y análisis. |
 
 ---
 
