@@ -13,7 +13,7 @@ Que contiene?
 
 Lab 07 - Ejercicio Integrador.ipynb: contiene una serie de métodos y funciones para:
 - el reconocimiento de rostros en imagenes
-- el reconocimiento de landmarks (puntos claves) en rostros
+- el reconocimiento de landmarks (puntos faciales) en rostros
 
 ---------------------------------------
 Como se usa?
