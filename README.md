@@ -17,8 +17,10 @@ Cada carpeta corresponde a una clase o unidad temática trabajada durante el cur
 | `003 Cuantización` | Reducción de niveles de gris e impacto visual al respecto. |
 | `004 Segmentación` | Técnicas de segmentación básicas por color, umbral y forma. |  
 | `005 Ejercicio Integrador` | Ejercicio integrador utilizando tecnicas adquiridas. |
-| `--- Librería PIL - Interpolación` | Uso de la librería PIL para operaciones como escalado y transformación de imágenes. |
-| `--- Librerías Scikit-image y Scipy` | Ejemplos con funciones de alto nivel para preprocesamiento y análisis. |
+| `006 Laboratorio integrados II` | Ejercicio integrador para espacio de color, muestreo espacial, proceso de cuantizacion y proceso de segmentacion de una imagen por color |
+| `007 Laboratorio integrador III` | Métodos y funciones para reconocimiento facial con CV2. |
+| `008 Reconocimiento Facial` | Métodos y funciones para reconocimiento facial e identificación de Landmarks faciales con MediaPipe. |
+| `009 Reconocimiento Facial y Gradio` | Métodos y funciones para reconocimiento facial e identificación de Landmarks faciales con MediaPipe, generando Interfaz Gráfica con Gradio. |
 
 ---
 
