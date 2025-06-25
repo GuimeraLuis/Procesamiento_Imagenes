@@ -4,6 +4,7 @@ Este repositorio contiene los notebooks, recursos y trabajos realizados para la 
 
 El objetivo de la materia es introducir los conceptos fundamentales del tratamiento digital de imágenes utilizando Python y librerías como **OpenCV**, **scikit-image**, **PIL** y **NumPy**. Los ejercicios incluyen desde la adquisición y manipulación básica hasta la segmentación, muestreo y cuantización.
 
+En la segunda etapa de la materia llamaron mi atención métodos y funciones relacionadas al reconocimiento facial, por lo que me concentré en trabajar con las mismas para poder llevar a cabo la implementación de los conocimientos adquiridos en el desarrollo de un proyecto integrador para la materia y también en el proyecto final de la tecnicatura.
 ---
 
 ## 📁 Estructura del repositorio
