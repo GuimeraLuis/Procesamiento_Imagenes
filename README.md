@@ -4,7 +4,8 @@ Este repositorio contiene los notebooks, recursos y trabajos realizados para la 
 
 El objetivo de la materia es introducir los conceptos fundamentales del tratamiento digital de imágenes utilizando Python y librerías como **OpenCV**, **scikit-image**, **PIL** y **NumPy**. Los ejercicios incluyen desde la adquisición y manipulación básica hasta la segmentación, muestreo y cuantización.
 
-En la segunda etapa de la materia llamaron mi atención métodos y funciones relacionadas al reconocimiento facial, por lo que me concentré en trabajar con las mismas para poder llevar a cabo la implementación de los conocimientos adquiridos en el desarrollo de un proyecto integrador para la materia y también en el proyecto final de la tecnicatura.
+En la segunda etapa de la materioa llamaron mucho mi atención los distintos métodos y funciones (vistas en clase) relacionadas al área de reconocimiento facial. Por lo que, me concentré en trabajar con las mismas para poder llevar a cabo la implementación de los conocimientos aquiridos en el desarrollo de un proyecto integrador para la materia y también en el proyecto final de la tecnicatura.
+
 ---
 
 ## 📁 Estructura del repositorio
@@ -22,6 +23,10 @@ Cada carpeta corresponde a una clase o unidad temática trabajada durante el cur
 | `007 Laboratorio integrador III` | Métodos y funciones para reconocimiento facial con CV2. |
 | `008 Reconocimiento Facial` | Métodos y funciones para reconocimiento facial e identificación de Landmarks faciales con MediaPipe. |
 | `009 Reconocimiento Facial y Gradio` | Métodos y funciones para reconocimiento facial e identificación de Landmarks faciales con MediaPipe, generando Interfaz Gráfica con Gradio. |
+| `010 Transferencia de Aprendizaje con ResNet18` | Métodos y funciones donde se aprovechan modelos pre-entrenados en grandes conjuntos de datos y clasificar el objeto en una imagen. |
+| `011 Inteligencia Generativa` | Métodos y funciones donde se aprovechan modelos pre-entrenados para la generación de imágenes. |
+| `012 Descripcion de Imagen` | Métodos y funciones donde se aprovechan modelos pre-entrenados para la descripción de imágenes. |
+| `PDI Proyecto Integrador` | Métodos y funciones con MediaPipe para la detección de somnolencia en conductores utilizando Interfaz Gráfica con Gradio (Colab) y Tkinter (Local). |
 
 ---
 
